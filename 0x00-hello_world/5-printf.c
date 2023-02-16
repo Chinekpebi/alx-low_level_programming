@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - Printf function is used to print a line in this program
- * Return: (0) (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
